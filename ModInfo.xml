@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Doughs UI WindowCompass FormatTime" />
+		<Description value="Swaps the time formatting in the main game compass UI" />
+		<Author value="Doughphunghus" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>

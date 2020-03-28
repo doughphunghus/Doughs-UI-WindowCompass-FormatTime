@@ -1,0 +1,5 @@
+<configs>
+  <!-- Its ugly, but it works for now -->
+  <set xpath="/windows/window[@name='windowCompass']/sprite[@pos='240,-60']/label/@text">"[{daycolor|always}]{day|always} {daytitle} [-] {timetitle}: {time|always}"</set>
+
+</configs>
